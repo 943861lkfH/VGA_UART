@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Mon Dec 26 19:29:22 2022
+# Process ID: 4568
+# Current directory: C:/Project_vivado/PRIMA_VGA_UART/PRIMA_VGA_UART.runs/synth_1
+# Command line: vivado.exe -log DEVICE.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source DEVICE.tcl
+# Log file: C:/Project_vivado/PRIMA_VGA_UART/PRIMA_VGA_UART.runs/synth_1/DEVICE.vds
+# Journal file: C:/Project_vivado/PRIMA_VGA_UART/PRIMA_VGA_UART.runs/synth_1\vivado.jou
+# Running On: DESKTOP-R3SF2J1, OS: Windows, CPU Frequency: 2096 MHz, CPU Physical cores: 8, Host memory: 6387 MB
+#-----------------------------------------------------------
+source DEVICE.tcl -notrace
